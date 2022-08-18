@@ -10,6 +10,11 @@
 8. git commit -m "commitname" <br />
 9. git push origin main
 
+NB : BEFORE YOU PUSH ANY CHANGES TO GIT, MAKE SURE YOU DONE GIT PULL FIRST <br />
+Basic workflow: <br />
+
+git pull origin main <br />
+git push origin main <br />
 
 
 
