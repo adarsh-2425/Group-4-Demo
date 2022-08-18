@@ -5,7 +5,7 @@
 3.  git branch -M main <br />
 4. git pull origin main <br />
 5 : Add your name in the index.html <br />
-6. 
+
 7. git add . <br />
 8. git commit -m "commitname" <br />
 9. git push origin main
